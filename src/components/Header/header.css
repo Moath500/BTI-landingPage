@@ -1,0 +1,72 @@
+.header-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    position: absolute;
+    width: 555px;
+    height: 140px;
+    left: 150px;
+    top: 206.77px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 70px;
+    /* or 140% */
+
+
+    color: #0B132A;
+
+}
+
+p{
+    position: absolute;
+width: 555px;
+height: 60px;
+left: 150px;
+top: 366.77px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #4F5665;
+
+}
+
+.start-btn{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 150px;
+    top: 476.77px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+
+    color: #FFFFFF;
+    background: #F53838;
+    border-radius: 10px;
+  
+}
+
+.h-photo{
+    
+position: absolute;
+width: 611.24px;
+height: 382.44px;
+left: 745.76px;
+top: 179.11px;
+}
